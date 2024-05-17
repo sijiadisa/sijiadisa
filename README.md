@@ -4,6 +4,7 @@
 - 👩🏿‍💻 Data Engineer on a ML Platform - Feature Store Team 
 - 🔧 Working on [SimSearchHub](https://github.com/sijiadisa/SimSearchHub)
 - 🌱 Learning ML Flow and AWS Sagemaker
+- 🎓 BS in Mathematics & Computer Science, MS in Analytics
 
 
 
