@@ -3,8 +3,9 @@
 <!-- Simple Bio and Stats about me -->
 - 👩🏿‍💻 Data Engineer on a ML Platform - Feature Store Team 
 - 🔧 Working on [SimSearchHub](https://github.com/sijiadisa/SimSearchHub)
-- 🌱 Learning ML Flow and AWS Sagemaker
-- 🎓 BS in Mathematics & Computer Science, MS in Analytics
+- 🌱 Learning [ML Flow](https://mlflow.org/) and [AWS Sagemaker](https://aws.amazon.com/sagemaker/)
+-  📊 Check out my data dashboards and visualizations on [Tableau](https://public.tableau.com/app/profile/siji.adisa/vizzes)
+- 🎓 BS in Mathematics & Computer Science, MS in Analytics from [UIC](https://www.uic.edu/)
 
 
 
